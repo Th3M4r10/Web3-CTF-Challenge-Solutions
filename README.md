@@ -1,5 +1,3 @@
-![Block logo](https://imgur.com/EvzXMnq.png)
-
 ## Rareskills Inspired CTF Challenges
 
 **Test your whitehat skills in our range of challenges inspired from Rareskills educational content**
@@ -19,7 +17,7 @@
 ## Setting up Challenge Environment
 
 ```jsx
-git clone https://github.com/BlockChomper/ctf-challenges.git
+git clone https://github.com/Th3M4r10/Web3-CTF-Challenge-Solutions.git
 ```
 
 Ensure you have Foundry installed with `foundryup` and then build the repo after cloning from Github
