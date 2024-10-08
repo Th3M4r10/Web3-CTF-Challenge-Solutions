@@ -35,3 +35,8 @@ Run exploit test to confirm successful completion of challenge
 ```jsx
 forge test --match-test testExploit
 ```
+
+Resources
+### Resources
+- [BlockChomper ctf challenges](https://github.com/BlockChomper/ctf-challenges)
+
